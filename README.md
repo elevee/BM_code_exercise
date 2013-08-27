@@ -11,6 +11,6 @@ So I should be able to load the dictionary with:
 
 tree: a plant having a permanently woody main stem or trunk,ordinarily growing to a considerable height, and usuallydeveloping branches at some distance from the ground
 house: a building in which people live; residence for human beings.
-racecar: racing car, is a palindrome
-nosirawayapapayawarison unknown definition, is a palindrome
+racecar: racing car
+nosirawayapapayawarison unknown definition
 
